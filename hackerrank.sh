@@ -1,0 +1,1 @@
+#####WELCOME TO DAY 0 OF HACKERRANK#####
